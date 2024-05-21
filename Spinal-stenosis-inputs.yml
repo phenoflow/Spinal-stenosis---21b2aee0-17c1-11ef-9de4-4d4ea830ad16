@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/lateral-spinal-stenosis---primary.py
+inputModule3:
+  class: File
+  path: python/degenerative-spinal-stenosis---primary.py
+inputModule4:
+  class: File
+  path: python/idiopathic-spinal-stenosis---primary.py
+inputModule5:
+  class: File
+  path: python/thoracic-spinal-stenosis---primary.py
+inputModule6:
+  class: File
+  path: python/central-spinal-stenosis---primary.py
+inputModule7:
+  class: File
+  path: python/spinal-stenosis-lumbar---primary.py
+inputModule8:
+  class: File
+  path: python/stenosis---primary.py
+inputModule9:
+  class: File
+  path: python/other-spinal-stenosis---primary.py
+inputModule10:
+  class: File
+  path: python/cervical-spinal-stenosis---primary.py
+inputModule11:
+  class: File
+  path: python/spinal-stenosis-region---primary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
